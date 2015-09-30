@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易口義
-#+DATE: 2015-09-23 09:34:13
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:53:38.869406
+#+PROPERTY: ID KR1a0012
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0012_WYG_009-1a>¶
 欽定四庫全書¶
 　周易口義卷九　　　　　宋　胡瑗　撰¶
@@ -992,4 +994,3 @@
 　¶
 　¶
 　周易口義卷九¶
-
